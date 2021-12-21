@@ -130,6 +130,8 @@ incrementan su resistencia en 60 , a 120,060  y los medidores a compresión dism
 
 1-Una fuente de voltaje tiene los valores VS 300 V y RS 50 . Conviértala en una fuente de corriente equivalen
 
+<img src="https://latex.codecogs.com/svg.image?\\I_{S}=&space;\frac{V_{S}}{R}\\&space;I_{S}=\frac{300}{50}\\&space;I_{S}=6A&space;\\&space;R_{S}=&space;50\mho&space;" title="\\I_{S}= \frac{V_{S}}{R}\\ I_{S}=\frac{300}{50}\\ I_{S}=6A \\ R_{S}= 50\mho " />
+
 3-Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A
 a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
 
