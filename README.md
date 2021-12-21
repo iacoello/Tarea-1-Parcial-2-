@@ -86,6 +86,7 @@ campo. La polarización es un método común empleado para establecer ciertos ni
 para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores
 con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden
 ser determinados con métodos ya conocidos.
+
 (a) Encuentre VG y VS 
 
 (b) Determine I1, I2, ID, e IS
