@@ -93,7 +93,24 @@ ser determinados con métodos ya conocidos.
 
 (c) Encuentre VDS y VDG
 
+35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en
+un circuito?
+(a) 1 V (b) 10 V (c) 100 V (d) 1000 V
 
+. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
+(a) ¿Qué intervalo se deberá utilizar?
+(b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
+
+Para el circuito mostrado en la figura 7-77, calcule:
+(a) La resistencia total entre las terminales de la fuente (b) La corriente total suministrada por la fuente
+(c) La corriente a través del resistor de 910 Æ (d) El voltaje desde el punto A hasta el punto B
+
+41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
+
+45. Repita el problema 44 para las siguientes condiciones
+(a) SW3 y SW4 conectados a 12 V, SW1 y SW2 a tierra
+(b) SW3 y SW1 conectados a 12 V, SW2 y SW4 a tierra
+(c) Todos los interruptores conectados a 12 V
 
 
 
