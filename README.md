@@ -119,20 +119,7 @@ Para el circuito mostrado en la figura 7-77, calcule:
 120,000  para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión
 incrementan su resistencia en 60 , a 120,060  y los medidores a compresión disminuyen su resistencia en 60 , a 119.940  como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
 
-49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
 
-51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
-
-53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
-
-1. Una fuente de voltaje tiene los valores VS 300 V y RS 50 . Conviértala en una fuente de corriente equivalen
-
-3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A
-a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
-
-5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kÆ. Conviértala en una fuente de voltaje equivalente
-
-7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69 .
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
