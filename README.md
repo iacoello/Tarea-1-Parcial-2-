@@ -132,7 +132,7 @@ a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de
 
 5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kÆ. Conviértala en una fuente de voltaje equivalente
 
-7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69. 
+7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69 .
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
