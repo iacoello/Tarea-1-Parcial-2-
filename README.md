@@ -95,9 +95,12 @@ ser determinados con métodos ya conocidos.
 
 35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en
 un circuito?
-(a) 1 V (b) 10 V (c) 100 V (d) 1000 V
+(a) 1 V 
+(b) 10 V 
+(c) 100 V 
+(d) 1000 V
 
-. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
+37.El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
 (a) ¿Qué intervalo se deberá utilizar?
 (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
 
@@ -122,7 +125,7 @@ incrementan su resistencia en 60 , a 120,060  y los medidores a compresión dism
 
 53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
 
-1. Una fuente de voltaje tiene los valores VS 300 V y RS 50 Æ. Conviértala en una fuente de corriente equivalen
+1. Una fuente de voltaje tiene los valores VS 300 V y RS 50 . Conviértala en una fuente de corriente equivalen
 
 3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A
 a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
