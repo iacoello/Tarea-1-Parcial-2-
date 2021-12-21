@@ -108,9 +108,8 @@ un circuito?
 (a) ¿Qué intervalo se deberá utilizar?
 (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
 
-Para el circuito mostrado en la figura 7-77, calcule:
-(a) La resistencia total entre las terminales de la fuente (b) La corriente total suministrada por la fuente
-(c) La corriente a través del resistor de 910  (d) El voltaje desde el punto A hasta el punto B
+![image](https://user-images.githubusercontent.com/93835587/147010719-c0bd672b-42fc-48aa-82ed-c2664bb53f15.png)
+
 
 41-Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
