@@ -95,6 +95,50 @@ ser determinados con métodos ya conocidos.
 
 
 
+35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en
+un circuito?
+(a) 1 V 
+(b) 10 V 
+(c) 100 V 
+(d) 1000 V
+
+37.El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
+(a) ¿Qué intervalo se deberá utilizar?
+(b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
+
+Para el circuito mostrado en la figura 7-77, calcule:
+(a) La resistencia total entre las terminales de la fuente (b) La corriente total suministrada por la fuente
+(c) La corriente a través del resistor de 910  (d) El voltaje desde el punto A hasta el punto B
+
+41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
+
+45. Repita el problema 44 para las siguientes condiciones
+(a) SW3 y SW4 conectados a 12 V, SW1 y SW2 a tierra
+(b) SW3 y SW1 conectados a 12 V, SW2 y SW4 a tierra
+(c) Todos los interruptores conectados a 12 V
+
+47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de
+120,000  para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión
+incrementan su resistencia en 60 , a 120,060  y los medidores a compresión disminuyen su resistencia en 60 , a 119.940  como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
+
+49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
+
+51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
+
+53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
+
+1. Una fuente de voltaje tiene los valores VS 300 V y RS 50 . Conviértala en una fuente de corriente equivalen
+
+3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A
+a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+
+5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kÆ. Conviértala en una fuente de voltaje equivalente
+
+7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69 .
+
+
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
