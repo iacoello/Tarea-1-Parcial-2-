@@ -135,6 +135,8 @@ incrementan su resistencia en 60 , a 120,060  y los medidores a compresión dism
 3-Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A
 a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
 
+<img src="https://latex.codecogs.com/svg.image?\\R_{1}=&space;\frac{V_{S}}{I_{T}}\\R_{1}=&space;\frac{1.6}{8.0}\\R_{1}=&space;2\mho\mapsto&space;0.2m\mho&space;" title="\\R_{1}= \frac{V_{S}}{I_{T}}\\R_{1}= \frac{1.6}{8.0}\\R_{1}= 2\mho\mapsto 0.2m\mho " />
+
 5-Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 . Conviértala en una fuente de voltaje equivalente
 
 7-Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69 .
