@@ -145,7 +145,7 @@ a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de
 
 ![image](https://user-images.githubusercontent.com/93835587/147013857-d6b7ed36-013c-44ed-9df5-c9cea285abd0.png)
 
-
+<img src="https://latex.codecogs.com/svg.image?\\I_{RA}=&space;\left&space;(&space;\frac{RT-R1}{RA}&space;\right&space;)~~~I_{T}=&space;\left&space;(&space;\frac{0,95K\mho&space;}{1,69K\mho&space;}&space;\right&space;)1.03mA=&space;0.59mA" title="\\I_{RA}= \left ( \frac{RT-R1}{RA} \right )~~~I_{T}= \left ( \frac{0,95K\mho }{1,69K\mho } \right )1.03mA= 0.59mA" />
 
 
 
