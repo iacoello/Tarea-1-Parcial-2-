@@ -143,6 +143,9 @@ a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de
 
 7-Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69 .
 
+![image](https://user-images.githubusercontent.com/93835587/147019605-c1c1885d-8a52-4d73-9521-74a8d559e475.png)
+
+
 ![image](https://user-images.githubusercontent.com/93835587/147013857-d6b7ed36-013c-44ed-9df5-c9cea285abd0.png)
 
 <img src="https://latex.codecogs.com/svg.image?\\I_{RA}=&space;\left&space;(&space;\frac{RT-R1}{RA}&space;\right&space;)~~~I_{T}=&space;\left&space;(&space;\frac{0,95K\mho&space;}{1,69K\mho&space;}&space;\right&space;)1.03mA=&space;0.59mA" title="\\I_{RA}= \left ( \frac{RT-R1}{RA} \right )~~~I_{T}= \left ( \frac{0,95K\mho }{1,69K\mho } \right )1.03mA= 0.59mA" />
