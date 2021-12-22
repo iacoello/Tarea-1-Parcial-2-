@@ -143,6 +143,8 @@ a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de
 
 7-Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69 .
 
+![image](https://user-images.githubusercontent.com/93835587/147013857-d6b7ed36-013c-44ed-9df5-c9cea285abd0.png)
+
 
 
 
