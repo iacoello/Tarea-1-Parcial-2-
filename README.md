@@ -139,6 +139,8 @@ a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de
 
 5-Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 . Conviértala en una fuente de voltaje equivalente
 
+<img src="https://latex.codecogs.com/svg.image?\\V_{S}=&space;I\times&space;R\\V_{S}=&space;720V&space;" title="\\V_{S}= I\times R\\V_{S}= 720V " />
+
 7-Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69 .
 
 
