@@ -92,11 +92,9 @@ la fuente.
 
 3:1.0k+3.3k+5.6.2k+10.0k=26100 Ohm
 
-11. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada
-caída de voltaje.
-
 
 13. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.
+
 
 
 15. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.
