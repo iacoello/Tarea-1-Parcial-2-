@@ -122,6 +122,10 @@ El voltaje oproximado debe ser de 1mV
 
 41-Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
+![image](https://user-images.githubusercontent.com/93835587/147994070-c09eed58-0181-42a6-9229-76475a122f93.png)
+
+
+
 45-Repita el problema 44 para las siguientes condiciones
 (a) SW3 y SW4 conectados a 12 V, SW1 y SW2 a tierra
 (b) SW3 y SW1 conectados a 12 V, SW2 y SW4 a tierra
