@@ -35,9 +35,6 @@ Aplicar los conocimientos entre los diferentes tipos de circuitos para su resolu
 
 ![Diagrama en blanco](https://user-images.githubusercontent.com/93835587/147997466-7fa6b154-d3f0-410d-97c0-94767fb48e7c.jpeg)
 
-![5](https://user-images.githubusercontent.com/93835587/147998899-1bd45631-f08f-4b5f-b6a6-9503b4559e8b.jpeg)
-
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -48,9 +45,15 @@ Aplicar los conocimientos entre los diferentes tipos de circuitos para su resolu
 
 (a) R1 en serie con la combinación en paralelo de R2 y R3
 
+![456](https://user-images.githubusercontent.com/93800511/147998840-dda6d481-2bbe-4407-a991-87bf0f0dab3f.png)
+
 (b) R1 en paralelo con la combinación en serie de R2 y R3
 
+![456](https://user-images.githubusercontent.com/93800511/147998972-5f45f09f-c55d-4e97-afdf-faaba31808ed.png)
+
 (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otroscuatro resistores
+
+![456](https://user-images.githubusercontent.com/93800511/147999082-64158f4c-78f6-4152-8764-f5cab6315c4f.png)
 
 3. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas
 desde la fuente.
