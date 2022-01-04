@@ -124,7 +124,7 @@ El voltaje oproximado debe ser de 1mV
 
 ![image](https://user-images.githubusercontent.com/93835587/147994070-c09eed58-0181-42a6-9229-76475a122f93.png)
 
-
+<img src="https://latex.codecogs.com/svg.image?\\I1=&space;I9=&space;16.1&space;mA&space;\\I2=&space;8.27mA&space;\\I3=&space;I8=&space;7.84mA\\I4=&space;4.06mA\\I5=&space;I6=&space;I7=&space;3.78mA&space;" title="\\I1= I9= 16.1 mA \\I2= 8.27mA \\I3= I8= 7.84mA\\I4= 4.06mA\\I5= I6= I7= 3.78mA " />
 
 45-Repita el problema 44 para las siguientes condiciones
 (a) SW3 y SW4 conectados a 12 V, SW1 y SW2 a tierra
