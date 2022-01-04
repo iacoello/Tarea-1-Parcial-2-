@@ -79,7 +79,7 @@ En azul: Serie
 7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse
 externa a la tarjeta
 
-![456](https://user-images.githubusercontent.com/93800511/148000476-9508cd33-d237-4b3e-a975-8b365449973b.png)
+![456](https://user-images.githubusercontent.com/93800511/148001235-5cbc0fb7-4c51-489c-9a8b-e305acff0b3a.png)
 
 9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a
 la fuente.
