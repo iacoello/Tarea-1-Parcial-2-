@@ -253,6 +253,37 @@ a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de
 
 <img src="https://latex.codecogs.com/svg.image?\\R_{T}=&space;\left&space;(&space;\left&space;(&space;R_{1}&space;\left|&space;\right|R_{2}\right&space;)&plus;R_{3}&space;\right&space;)\left|&space;\right|R_{5}&plus;R_{4}=&space;1.95k\mho&space;\\I_{T}&space;=&space;\frac{V_{S}}{R_{T}}=&space;1.53mA\\I_{RS_{2}}&space;=\left&space;(&space;\frac{R_{T}-R_{4}}{R_{X}}&space;\right&space;)&space;~~~~~I_{T}=&space;\left&space;(&space;\frac{0,95k\mho&space;}{2.2k\mho&space;}&space;\right&space;)1.53mA=&space;&space;0.66mA\\I_{R5}&space;=&space;I_{R5_{1}}&plus;I_{R5_{2}}\\I_{R5}&space;=845uA&space;" title="\\R_{T}= \left ( \left ( R_{1} \left| \right|R_{2}\right )+R_{3} \right )\left| \right|R_{5}+R_{4}= 1.95k\mho \\I_{T} = \frac{V_{S}}{R_{T}}= 1.53mA\\I_{RS_{2}} =\left ( \frac{R_{T}-R_{4}}{R_{X}} \right ) ~~~~~I_{T}= \left ( \frac{0,95k\mho }{2.2k\mho } \right )1.53mA= 0.66mA\\I_{R5} = I_{R5_{1}}+I_{R5_{2}}\\I_{R5} =845uA " />
 
+9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
+
+![imagen](https://user-images.githubusercontent.com/93835533/148006076-67681987-8ff7-4a4e-a548-d394753fdaec.png)
+
+![imagen](https://user-images.githubusercontent.com/93835533/148006084-c0a71435-f6ea-4498-a5cf-0473c11c5e91.png)
+
+![imagen](https://user-images.githubusercontent.com/93835533/148006090-8801e1f1-a0e6-4295-b25f-2946b0560e70.png)
+
+13. Determine el voltaje del punto A al punto B en la figura 8-73.
+
+![imagen](https://user-images.githubusercontent.com/93835533/148006175-e8bd07d5-4c04-44aa-9fc3-24f0da6af621.png)
+
+
+15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+
+![imagen](https://user-images.githubusercontent.com/93835533/148006400-b2ea7dc2-ae3f-43ec-82dc-6b513ba76a2f.png)
+
+![imagen](https://user-images.githubusercontent.com/93835533/148006637-373eb925-feb0-4ea9-914b-c33d6af43f3d.png)
+
+![imagen](https://user-images.githubusercontent.com/93835533/148006696-dfbadfc4-ca66-44f6-9a01-153036651944.png)
+
+![imagen](https://user-images.githubusercontent.com/93835533/148006880-cd0e38d5-9478-40bf-a501-afdc0398c9fe.png)
+
+![imagen](https://user-images.githubusercontent.com/93835533/148006890-687cef9f-de62-4c72-a26c-3f865efd0794.png)
+
+
+
+
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
