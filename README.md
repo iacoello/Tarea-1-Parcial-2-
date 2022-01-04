@@ -151,6 +151,8 @@ de salida de un divisor de voltaje dado?
 
 ![456](https://user-images.githubusercontent.com/93800511/148004586-be152097-db49-499b-af30-ba4bb0b87bb3.png)
 
+<img src="https://latex.codecogs.com/svg.image?V=(6.63/10&plus;6.63)*22=8.77V&space;" title="V=(6.63/10+6.63)*22=8.77V " />
+
 31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones:
 la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kÆ a cada toma, una a la vez.
 
