@@ -151,6 +151,8 @@ incrementan su resistencia en 60 , a 120,060  y los medidores a compresión dism
 
 ![image](https://user-images.githubusercontent.com/93835587/147995306-f0c74a2e-54f7-4b91-9b97-b444f89c00e3.png)
 
+<img src="https://latex.codecogs.com/svg.image?\\Obtenemos~&space;la&space;~&space;siguiente~respuesta\\No~debera~ser~de~4.39&space;V" title="\\Obtenemos~ la ~ siguiente~respuesta\\No~debera~ser~de~4.39 V" />
+
 
 1-Una fuente de voltaje tiene los valores VS 300 V y RS 50 . Conviértala en una fuente de corriente equivalen
 
