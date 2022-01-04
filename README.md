@@ -106,31 +106,46 @@ la fuente.
 
 ![456](https://user-images.githubusercontent.com/93800511/148003352-1a186193-e9e8-43c7-997c-829ecb5c8dff.png)
 
+1:
+
+2:
+
+3:
+
+4:
+
 17. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente
 un medidor entre los extremos del resistor?
 
+![456](https://user-images.githubusercontent.com/93800511/148004414-e6f9d2c0-31c4-4d02-8a0f-4ab49af611d1.png)
 
 19. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
 
+![456](https://user-images.githubusercontent.com/93800511/148004434-0b3f226a-9fce-48d5-8849-0cd1fd9f696d.png)
 
 21. (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2.
+
+![456](https://user-images.githubusercontent.com/93800511/148004463-0cc5edd7-dd70-40bd-b260-787d78a1a063.png)
 
 23. Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72:
 AB, BC y CD.
 
+![456](https://user-images.githubusercontent.com/93800511/148004512-676b786e-ef53-4005-9cd7-87a01e0fb44f.png)
 
 25. Un divisor de voltaje está compuesto por dos resistores de 56 kÆ y una fuente de 15 V. Calcule el voltaje
 de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MÆ a
 la salida?
 
 
+
 27. ¿Cuál de dos cargas, una de 10 kÆ y otra de 47 kÆ, provocará una disminución más pequeña en el voltaje
 de salida de un divisor de voltaje dado?
 
 
+
 29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kÆ conectada entre A y B.
 
-
+![456](https://user-images.githubusercontent.com/93800511/148004586-be152097-db49-499b-af30-ba4bb0b87bb3.png)
 
 31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones:
 la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kÆ a cada toma, una a la vez.
@@ -149,7 +164,7 @@ ser determinados con métodos ya conocidos.
 
 (c) Encuentre VDS y VDG
 
-
+![456](https://user-images.githubusercontent.com/93800511/148004691-9639ae71-160c-4bc6-8ffc-64a04eb96cb3.png)
 
 35-¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en
 un circuito?
