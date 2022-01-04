@@ -19,9 +19,15 @@
 
 **1. OBJETIVOS**
 
+Desarrollar los ejercicios propuestos para la unidad 7 y 8 correspondientes a los circuitos en seie y en paraleo y sus diferentes metodos de resolucion asi cmo las diferentes variantes que estos pueden presentar dependientdo de la necesidad del circuito, los componentes que este contenga y su grado de dificultad con respecto a la teoria. 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.2 OBJETIVOS ESPECIFICOS** 
+
+Identificar la diferencia entre los circuitos en serie y en paralelo baandose en su composicion y forma.
+
+Aplicar los conocimientos entre los diferentes tipos de circuitos para su resolucion. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -209,6 +215,8 @@ a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de
 
 
 **5.CONCLUCIONES**
+
+En conclucion los diferentes tipos de circuitos se pueden resolver de diferentes maneras aplicables segun sus esquemas y componentes, es muy importante saber entender entre los tipos de circuitos que se pueden presentar ya sean en serie o paralelo e identificar donde estan secciones cruciales de los mismos como los nodos principales o el conjnto de mallas que componen los mismos. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
