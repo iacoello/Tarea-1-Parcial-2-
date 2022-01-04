@@ -105,6 +105,7 @@ un circuito?
 <img src="https://latex.codecogs.com/svg.image?El~intervalo~adecuado~de~voltaje~presente~en~un~voltimetro~de~minima~carga~en~un~circuito~es~de~1000&space;V" title="El~intervalo~adecuado~de~voltaje~presente~en~un~voltimetro~de~minima~carga~en~un~circuito~es~de~1000 V" />
 
 37-El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
+
 (a) ¿Qué intervalo se deberá utilizar?
 
 (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
@@ -131,10 +132,6 @@ El voltaje oproximado debe ser de 1mV
 incrementan su resistencia en 60 , a 120,060  y los medidores a compresión disminuyen su resistencia en 60 , a 119.940  como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
 
 49-¿Es correcta la lectura del voltímetro de la figura 7-84?
-
-51-En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
-
-53-Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
 
 1-Una fuente de voltaje tiene los valores VS 300 V y RS 50 . Conviértala en una fuente de corriente equivalen
 
