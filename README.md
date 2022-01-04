@@ -154,6 +154,13 @@ de salida de un divisor de voltaje dado?
 31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones:
 la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kÆ a cada toma, una a la vez.
 
+<img src="https://latex.codecogs.com/svg.image?Irl1=Vrl/Rrl=5/0.005=1kohm" title="Irl1=Vrl/Rrl=5/0.005=1kohm" />
+
+<img src="https://latex.codecogs.com/svg.image?Irl2=Vrl/Rrl=Rrl2=2.5/0.005=Rrl1=0.5k&space;Ohm" title="Irl2=Vrl/Rrl=Rrl2=2.5/0.005=Rrl1=0.5k Ohm" />
+
+<img src="https://latex.codecogs.com/svg.image?V=(0.5/0.5&plus;0.5)*10=5v" title="V=(0.5/0.5+0.5)*10=5v" />
+
+<img src="https://latex.codecogs.com/svg.image?V=(0.5/0.5&plus;0.5)*10=2.5v" title="V=(0.5/0.5+0.5)*10=2.5v" />
 
 
 33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de
