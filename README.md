@@ -79,6 +79,7 @@ En azul: Serie
 7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse
 externa a la tarjeta
 
+![456](https://user-images.githubusercontent.com/93800511/148000476-9508cd33-d237-4b3e-a975-8b365449973b.png)
 
 9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a
 la fuente.
@@ -117,7 +118,8 @@ de salida de un divisor de voltaje dado?
 
 
 29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kÆ conectada entre A y B.
-30. 
+
+
 
 31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones:
 la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kÆ a cada toma, una a la vez.
