@@ -92,13 +92,19 @@ la fuente.
 
 3:1.0k+3.3k+5.6.2k+10.0k=26100 Ohm
 
-
 13. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.
 
+![456](https://user-images.githubusercontent.com/93800511/148002252-05910185-6d10-4db3-80d0-575d43a16c74.png)
 
+1: 100+220+2.2k=2520 Ohm
+
+2: 100+220=320 Ohm
+
+3: 220+2200=2420 Ohm
 
 15. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.
 
+![456](https://user-images.githubusercontent.com/93800511/148003352-1a186193-e9e8-43c7-997c-829ecb5c8dff.png)
 
 17. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente
 un medidor entre los extremos del resistor?
