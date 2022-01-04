@@ -315,6 +315,24 @@ a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de
 ![imagen](https://user-images.githubusercontent.com/93835533/148011476-fe960637-aa19-4130-8272-01c3ac9b00f9.png)
 
 
+23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
+
+![imagen](https://user-images.githubusercontent.com/93835533/148011661-28d0e063-b94b-44d1-a95f-e5eb6fdd4804.png)
+
+![imagen](https://user-images.githubusercontent.com/93835533/148011746-0db145c5-a5eb-426e-b3dc-607bcf929e85.png)
+
+![imagen](https://user-images.githubusercontent.com/93835533/148011797-eeca63fc-6ff9-4a37-9abb-7ea09f416bac.png)
+
+
+
+![imagen](https://user-images.githubusercontent.com/93835533/148011819-8b263d86-a846-43ba-bee4-bc8feae0ff22.png)
+
+![imagen](https://user-images.githubusercontent.com/93835533/148011914-39daa9f9-a8e8-408f-ab9d-b23c67993074.png)
+
+
+
+
+
 
 
 
