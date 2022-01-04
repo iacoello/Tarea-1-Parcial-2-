@@ -142,9 +142,15 @@ Se obtienen las siguientes respuestas
 120,000  para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión
 incrementan su resistencia en 60 , a 120,060  y los medidores a compresión disminuyen su resistencia en 60 , a 119.940  como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
 
+![image](https://user-images.githubusercontent.com/93835587/147995281-84fcf863-97fc-465c-ba13-a98f897b1b6d.png)
+
+
 <img src="https://latex.codecogs.com/svg.image?\\Obtenemos~&space;la&space;~&space;siguiente~respuesta\\6&space;mV~(lado~derecho~positivo~con~respecto~al~izquierdo)" title="\\Obtenemos~ la ~ siguiente~respuesta\\6 mV~(lado~derecho~positivo~con~respecto~al~izquierdo)" />
 
 49-¿Es correcta la lectura del voltímetro de la figura 7-84?
+
+![image](https://user-images.githubusercontent.com/93835587/147995306-f0c74a2e-54f7-4b91-9b97-b444f89c00e3.png)
+
 
 1-Una fuente de voltaje tiene los valores VS 300 V y RS 50 . Conviértala en una fuente de corriente equivalen
 
