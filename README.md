@@ -106,10 +106,18 @@ un circuito?
 
 37-El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
 (a) ¿Qué intervalo se deberá utilizar?
+
 (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
 
 ![image](https://user-images.githubusercontent.com/93835587/147010719-c0bd672b-42fc-48aa-82ed-c2664bb53f15.png)
 
+(a) ¿Qué intervalo se deberá utilizar?
+
+En un intervalo de 0.5
+
+(b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
+
+El voltaje oproximado debe ser de 1mV
 
 41-Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
