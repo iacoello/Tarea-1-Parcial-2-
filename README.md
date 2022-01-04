@@ -84,6 +84,13 @@ externa a la tarjeta
 9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a
 la fuente.
 
+![456](https://user-images.githubusercontent.com/93800511/148001595-10c85a48-f6b6-42d7-88e0-7ada71d1aa7c.png)
+
+1:56+100+100+27=283 Ohm
+
+2:680+680+330+180=1870 Ohm
+
+3:1.0k+3.3k+5.6.2k+10.0k=26100 Ohm
 
 11. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada
 caída de voltaje.
