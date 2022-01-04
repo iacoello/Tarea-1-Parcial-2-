@@ -41,6 +41,9 @@ Aplicar los conocimientos entre los diferentes tipos de circuitos para su resolu
 
 
 
+![Blank diagram (8)](https://user-images.githubusercontent.com/93835533/148076248-1988573c-1df6-4ba9-abdf-fb8df5f3a949.png)
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
