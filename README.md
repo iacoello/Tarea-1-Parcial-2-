@@ -294,6 +294,9 @@ a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de
 
 
 
+17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77
+
+![imagen](https://user-images.githubusercontent.com/93835533/148011357-79389b66-0eba-4a52-9fae-a283e6b19e8a.png)
 
 
 
