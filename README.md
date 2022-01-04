@@ -300,6 +300,24 @@ a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de
 
 
 
+
+
+
+
+21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+
+![imagen](https://user-images.githubusercontent.com/93835533/148011436-9a114465-34c5-403d-a4b8-6c48cf4e981b.png)
+
+![imagen](https://user-images.githubusercontent.com/93835533/148011448-67616003-13a6-4344-8e87-06f5227f168f.png)
+
+![imagen](https://user-images.githubusercontent.com/93835533/148011462-06d08877-3a37-499f-8e24-7ada36c94bfd.png)
+
+![imagen](https://user-images.githubusercontent.com/93835533/148011476-fe960637-aa19-4130-8272-01c3ac9b00f9.png)
+
+
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
