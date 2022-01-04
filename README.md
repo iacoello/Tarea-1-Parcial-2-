@@ -106,22 +106,26 @@ la fuente.
 
 ![456](https://user-images.githubusercontent.com/93800511/148003352-1a186193-e9e8-43c7-997c-829ecb5c8dff.png)
 
-1:
+1: 8.5 V
 
-2:
+2: 6.4 V
 
-3:
+3: 3.2 V
 
-4:
+4: 4.8 V
 
 17. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente
 un medidor entre los extremos del resistor?
 
 ![456](https://user-images.githubusercontent.com/93800511/148004414-e6f9d2c0-31c4-4d02-8a0f-4ab49af611d1.png)
 
+Aplicando las leyes de Kirchoff podria conocer el voltaje por la caida de este en el resistor y compararlo con la de los demas resistores en serie dentro del nodo principal en el que se componen.
+
 19. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
 
 ![456](https://user-images.githubusercontent.com/93800511/148004434-0b3f226a-9fce-48d5-8849-0cd1fd9f696d.png)
+
+RT = R1 + R2 7R3 + R4 = 608 Æ
 
 21. (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2.
 
