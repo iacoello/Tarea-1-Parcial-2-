@@ -63,6 +63,11 @@ Aplicar los conocimientos entre los diferentes tipos de circuitos para su resolu
 3. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas
 desde la fuente.
 
+![456](https://user-images.githubusercontent.com/93800511/147999502-99118ab4-17b2-45f5-a52e-c9188768585a.png)
+
+En amarillo: Paralelo
+
+En azul: Serie
 
 5. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura
 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
