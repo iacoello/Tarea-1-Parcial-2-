@@ -331,6 +331,65 @@ a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de
 
 
 
+25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
+
+![imagen](https://user-images.githubusercontent.com/93835533/148012143-ec558b6f-f73b-49bb-837a-7f5fb431f70a.png)
+
+
+
+
+
+27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL
+
+
+![imagen](https://user-images.githubusercontent.com/93835533/148012176-1d11b590-26aa-447b-87d3-5244de10c78d.png)
+
+![imagen](https://user-images.githubusercontent.com/93835533/148012269-681caaff-dcdf-486c-ba08-7fbe90fe5256.png)
+
+
+29. Aplique el teorema de Norton al circuito de la figura 8-84.
+
+![imagen](https://user-images.githubusercontent.com/93835533/148012309-4b2662d9-d644-4ec3-a9f6-0263dfc04813.png)
+
+
+
+
+
+
+
+31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
+
+![imagen](https://user-images.githubusercontent.com/93835533/148012334-ce96f4d4-5baf-4502-af5d-8536f29ebc7f.png)
+
+
+
+
+
+
+
+33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
+
+![imagen](https://user-images.githubusercontent.com/93835533/148012356-97148dff-9ab0-46d2-9141-b76e9b5f7faf.png)
+
+
+
+
+
+
+
+
+
+35. En la figura 8-89, convierta cada red Y en una red delta.
+
+![imagen](https://user-images.githubusercontent.com/93835533/148012379-cf356f87-eba8-49f5-9832-fb537d61d9d7.png)
+
+![imagen](https://user-images.githubusercontent.com/93835533/148012465-32ccc049-1feb-40eb-ad56-41e25daa5ef4.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93835533/148012484-bffb9c82-b4a7-40b5-8371-98ca21e98a45.png)
+
+![imagen](https://user-images.githubusercontent.com/93835533/148012662-11a3ad12-db5e-4442-9883-6d4226b5055d.png)
+
 
 
 
