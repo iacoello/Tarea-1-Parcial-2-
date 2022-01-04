@@ -74,7 +74,7 @@ En azul: Serie
 
 ![456](https://user-images.githubusercontent.com/93800511/147999577-d3b77432-5ea5-4463-a8a1-1ff6122f3b8b.png)
 
-![image](https://user-images.githubusercontent.com/93800511/148000354-a6a5df68-e352-4c48-a100-8d96c42cceb4.png)
+![456](https://user-images.githubusercontent.com/93800511/148000408-c77e5102-2f69-4f5a-8477-18ec0009516f.png)
 
 7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse
 externa a la tarjeta
