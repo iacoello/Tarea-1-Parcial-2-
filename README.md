@@ -131,6 +131,8 @@ El voltaje oproximado debe ser de 1mV
 (b) SW3 y SW1 conectados a 12 V, SW2 y SW4 a tierra
 (c) Todos los interruptores conectados a 12 V
 
+<img src="https://latex.codecogs.com/svg.image?\\\begin{pmatrix}a\end{pmatrix}&space;9V\\\begin{pmatrix}b\end{pmatrix}&space;3.75V\\\begin{pmatrix}c\end{pmatrix}11.25V" title="\\\begin{pmatrix}a\end{pmatrix} 9V\\\begin{pmatrix}b\end{pmatrix} 3.75V\\\begin{pmatrix}c\end{pmatrix}11.25V" />
+
 47-Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de
 120,000  para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión
 incrementan su resistencia en 60 , a 120,060  y los medidores a compresión disminuyen su resistencia en 60 , a 119.940  como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
