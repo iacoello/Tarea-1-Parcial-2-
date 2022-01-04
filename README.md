@@ -327,7 +327,8 @@ a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de
 
 ![imagen](https://user-images.githubusercontent.com/93835533/148011819-8b263d86-a846-43ba-bee4-bc8feae0ff22.png)
 
-![imagen](https://user-images.githubusercontent.com/93835533/148011914-39daa9f9-a8e8-408f-ab9d-b23c67993074.png)
+![imagen](https://user-images.githubusercontent.com/93835533/148011996-bc933e93-9322-4647-99eb-da7166672c1d.png)
+
 
 
 
