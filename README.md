@@ -72,6 +72,7 @@ En azul: Serie
 5. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura
 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
 
+![456](https://user-images.githubusercontent.com/93800511/147999577-d3b77432-5ea5-4463-a8a1-1ff6122f3b8b.png)
 
 7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse
 externa a la tarjeta
