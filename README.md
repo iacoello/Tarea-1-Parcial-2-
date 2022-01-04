@@ -182,6 +182,15 @@ a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de
 
 <img src="https://latex.codecogs.com/svg.image?\\R_{T}=&space;\left&space;(&space;\left&space;(&space;R_{1}&space;\left|&space;\right|R_{2}\right&space;)&plus;R_{3}&space;\right&space;)\left|&space;\right|R_{5}&plus;R_{4}=&space;1.95k\mho&space;\\I_{T}&space;=&space;\frac{V_{S}}{R_{T}}=&space;1.53mA\\I_{RS_{2}}&space;=\left&space;(&space;\frac{R_{T}-R_{4}}{R_{X}}&space;\right&space;)&space;~~~~~I_{T}=&space;\left&space;(&space;\frac{0,95k\mho&space;}{2.2k\mho&space;}&space;\right&space;)1.53mA=&space;&space;0.66mA\\I_{R5}&space;=&space;I_{R5_{1}}&plus;I_{R5_{2}}\\I_{R5}&space;=845uA&space;" title="\\R_{T}= \left ( \left ( R_{1} \left| \right|R_{2}\right )+R_{3} \right )\left| \right|R_{5}+R_{4}= 1.95k\mho \\I_{T} = \frac{V_{S}}{R_{T}}= 1.53mA\\I_{RS_{2}} =\left ( \frac{R_{T}-R_{4}}{R_{X}} \right ) ~~~~~I_{T}= \left ( \frac{0,95k\mho }{2.2k\mho } \right )1.53mA= 0.66mA\\I_{R5} = I_{R5_{1}}+I_{R5_{2}}\\I_{R5} =845uA " />
 
+9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
+
+![image](https://user-images.githubusercontent.com/93835533/147996660-24a027f4-7546-4118-9620-54ec3c83fd4b.png)
+
+![image](https://user-images.githubusercontent.com/93835533/147996750-d9e8240a-0e91-427e-9d0a-c32ad172a6e0.png)
+
+![image](https://user-images.githubusercontent.com/93835533/147996815-129b7c6e-f03d-4bb1-b2bc-04b159fc6ab8.png)
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
